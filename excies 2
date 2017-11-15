@@ -1,0 +1,56 @@
+<!DOCYTYPE html>
+<html>
+<head>
+<title> uki2 project</title>
+</head>
+<body>
+<table>
+<tr>
+<td>
+<img src="/home/ukistu11/Documents/Uki_2/Coding/ a.jpg "></td>
+<td>
+<a href="">Home </a>
+<a href="">Course </a>
+<a href="">Timeline </a>
+<a href="">Contact </a>
+<a href="">ApplyNow </a>
+</td>
+</table>
+<img src="/home/ukistu11/Documents/Uki_2/Coding/a.jpg" width=100% >
+<table>
+  <tr>
+    <td>
+    </td>
+      <td>
+        <p><b> Welcome to</b> <sub><font color ="brown"> Uki : Stepping stone to tech life</sub></font> </p>
+<p>It is a full scholarship based Accelerator program for Coding in Jaffna, Sri Lanka targeting students who has completed Advanced Level examinations and don’t have access to university education or any other form of vocational education. It is aimed to provide the necessary training to enter Computer Software industry or to start an IT startup.
+This is a joint initiative by Yarl IT Hub and SERVE Foundation. Yarl IT Hub has been functioning for the last five years as a not for profit social enterprise focusing on technology entrepreneurship in northern Sri Lanka and SERVE Foundation is a four year old foundation focusing on using technology to uplift secondary education standards in rural schools in northern Sri Lanka.
+</p>
+</td>
+</table>
+<center> <b>Course </b> <br>
+
+Find out the course we have
+</center>
+<table>
+  <tr>
+    <td>
+      ,<img src="/home/ukistu11/Documents/Uki_2/Coding/s.png">
+    </td>
+    <td>
+      <p> <b>CODING ACCELERATOR PROGRAM </b> </p>
+<p>
+This Coding Accelerator program is an intensive training on full-stack development with server-side Node.js and modern, client-side, front-end libraries and frameworks.Throughout this intensive course the student will study professional software development techniques and practices as he/she advances his/her skills on JavaScript.
+
+In Addition to Full Stack Development this course also includes career development curriculum such as
+</p>
+<ul type="disc">
+  <li>Basic Business Skills </li>
+  <li>Spoken English and Communication Skills.</li>
+  <li>Personal Coaching </li></ul>
+  <p> to get the students ready for job search plus job search assistance after graduation. Further guidance will be provided for those who want to venture in their own to become startup founders and co-founders.
+  </p>
+</td>
+</table>
+</body>
+</html>
